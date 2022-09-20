@@ -1,4 +1,4 @@
- ![Img](/EmilioAv.png)  ![Img](/SpaceReadme.png) ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FDC61A&width=600&height=145&lines=Hello!+My+Name+is+Emili0)
+ ![Img](/EmilioAv.png)  ![Img](/Space.png) ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FDC61A&width=600&height=145&lines=Hello!+My+Name+is+Emili0)
  </br>
  </br>
  </br>
