@@ -1,4 +1,4 @@
- ![Img](/Emilioethimg.png) ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FDC61A&width=600&height=145&lines=Hello!+My+Name+is+Emili0)
+ ![Img](/Emilioethimg.png)  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FDC61A&width=600&height=145&lines=Hello!+My+Name+is+Emili0)
  </br>
  </br>
  </br>
@@ -17,6 +17,9 @@
 </br>
 </br>
 <div align=center>
+
+
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,8 +40,13 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
+
+## 
+## 
+
 </br>
 </br>
+
 <div align=center>
 
 ![Emili0's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilioEth&show_icons=true&count_private=true&hide=contribs,issues&theme=merko) </br>
