@@ -2,7 +2,7 @@
  </br>
  </br>
  </br>
- ## About Me
+ ## 
 </br>
 </br>
 <div align=center> <strong> Im a 20 Year Old Full Stack Developer, Audio Engineer and Blockchain Enthusiast. </br> Mainly focused on Web3.0 and the Digitalization of businesses, but open to anything, I have </br> experience building fully interactive websites as well as full fledged apps, from a clean and polished </br>  front end to a fast and efficient back end. learn more about me, like what languages I </br> have experience with and how to contact me down below! </srong> </div>
@@ -10,7 +10,9 @@
 </br>
 </br>
 </br>
+<div align=center>
 <strong> I Have Experience Working With the Following Technologies : </strong>
+</div>
 </br>
 </br>
 </br>
@@ -47,7 +49,7 @@
 </br>
 </br>
 
-## Contact
+## 
 
 <div align=center>
 
