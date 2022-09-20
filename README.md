@@ -39,7 +39,7 @@
 </br>
 <div align=center>
 
-![Emili0's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilioEth&show_icons=true&count_private=true&hide=contribs,issues&theme=merko)  ![Img](/SpaceReadme.png)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilioeth&theme=merko) 
+![Emili0's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilioEth&show_icons=true&count_private=true&hide=contribs,issues&theme=merko)  ![Img](/SpaceReadme.png) ![Img](/SpaceReadme.png) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilioeth&theme=merko) 
 </div>
 </br>
 </br>
